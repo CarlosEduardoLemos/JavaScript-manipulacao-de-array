@@ -6,8 +6,7 @@ Este é o README para o projeto de Filtros de Livros, uma aplicação que permit
 | -------------  | --- |
 | :sparkles: Nome        | **Filtros de Livros**
 | :label: Tecnologias | JavaScript, HTML, CSS
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | https://carloseduardolemos.github.io/JavaScript-manipulacao-de-array/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/SeuUsuario/projeto-filtros-livros/main/imagens/filtros-livros.png#vitrinedev)
@@ -22,7 +21,7 @@ Durante o desenvolvimento deste projeto, foram explorados alguns métodos especi
 
 Os próximos passos para o projeto incluem a adição de recursos adicionais, como a pesquisa de livros por título, a implementação de paginação para lidar com grandes quantidades de livros, e a integração com uma API para obter dados de livros em tempo real.
 
-Se você está interessado em manipulação de arrays, filtragem de dados e manipulação do DOM em JavaScript, experimente o projeto [aqui](https://url-deploy.com.br) e explore diferentes categorias de livros enquanto utiliza os métodos especiais do JavaScript.
+Se você está interessado em manipulação de arrays, filtragem de dados e manipulação do DOM em JavaScript, experimente o projeto [aqui](https://github.com/CarlosEduardoLemos/JavaScript-manipulacao-de-array) e explore diferentes categorias de livros enquanto utiliza os métodos especiais do JavaScript.
 
 ## Contribuição
 
