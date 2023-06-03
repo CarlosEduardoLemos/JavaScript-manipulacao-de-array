@@ -9,7 +9,7 @@ Este é o README para o projeto de Filtros de Livros, uma aplicação que permit
 | :rocket: URL         | https://carloseduardolemos.github.io/JavaScript-manipulacao-de-array/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/SeuUsuario/projeto-filtros-livros/main/imagens/filtros-livros.png#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/JavaScript-manipulacao-de-array/main/imagens/Captura%20de%20tela%202023-06-02%20224840.png#vitrinedev)
 
 ## Detalhes do projeto
 
