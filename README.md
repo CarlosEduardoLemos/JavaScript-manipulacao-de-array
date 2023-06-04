@@ -1,6 +1,6 @@
 # Filtros de Livros com Manipulação do DOM em JavaScript
 
-Este é o README para o projeto de Filtros de Livros, uma aplicação que permite filtrar e manipular livros de diferentes categorias (front-end, back-end, livros de dados, livros disponíveis) utilizando JavaScript e manipulação do DOM.
+O projeto de Filtros de Livros, é uma aplicação que permite filtrar e manipular livros de diferentes categorias (front-end, back-end, livros de dados, livros disponíveis) utilizando JavaScript e manipulação do DOM.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
